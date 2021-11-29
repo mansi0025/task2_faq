@@ -1,0 +1,171 @@
+#faq{
+width: 100%;
+top: 0px;
+left: 0px;
+opacity: 1;
+align-items: center;
+}
+.div1{
+background-color: gray;
+top: 6px;
+left: 15px;
+width: 100%;
+height: 60px;
+opacity: 1;
+display: flex;
+justify-content:space-between;
+align-items:center;
+}
+.img1{
+top: 6px;
+left: 15px;
+width: 73px;
+height: 50px;
+}
+.navbar{
+    color: white;
+    display: flex;
+    align-content: space-between;
+    margin: 10px ;
+    font-size: 15px;
+}
+.np{
+    margin: 10px;
+    padding: 5px;
+}
+.bnp{
+    color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    background-color: rgb(29, 134, 124);
+    border-radius:50px 50px 50px 50px;
+    border: 1px solid white;
+    
+}
+.mainimg{
+    width: 100%;
+    top: 64px;
+    left: 0px;
+    height: 370px;
+}
+.div2{
+    margin: 30px;
+    text-align: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+   
+}
+.div23{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.div24{
+    margin: 30px;
+    align-content: center;
+}
+.div25{
+    display: flex;
+    align-content: center;
+    padding-left: 350px;
+    
+}
+.button {
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+   width: 350px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .button1 {
+      background-color:rgb(29, 134, 124);
+      border-bottom: 5px solid rgb(29, 134, 124) ;
+
+} 
+  .button2 {
+      background-color: rgb(219, 219, 219);
+      color: black;
+      border-bottom: 5px solid rgb(29, 134, 124) ;
+      margin-right: 20px;
+}
+
+.div4{
+    margin: 60px;
+    align-content: center;
+    text-align: center;
+}
+.div4c{
+    display: flex;
+    align-content: space-between;
+    margin-left: 30%;
+    margin-top: 20px;
+   
+}
+.butt{
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 4px 5px;
+    cursor: pointer;
+    border-radius:50px 50px 50px 50px;
+    height: auto;
+}
+.butt1{
+    background-color: rgb(219, 219, 219);
+    color:rgb(59, 59, 59);
+    border:1px solid rgb(59, 59, 59);
+    width: 300px;
+    text-align: left;
+}
+.butt2{
+    background-color: rgb(247, 111, 62);
+    width: 100px;
+    color: white;
+    border: none;
+}
+
+.div3{
+    margin: 50px 20px 50px 20px;
+    padding-left: 15%;
+    padding-right: 10%;
+    text-align: center;
+    align-content: center;
+
+}
+.div3c{
+    display: flex;
+    align-content: center;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    padding: 30px;
+    align-content: center;
+    text-align: center;
+}
+.footer1{
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+.footerimg{
+    display: flex;
+    
+}
